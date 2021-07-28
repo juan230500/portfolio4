@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio4/static/css/main.b456dc91.chunk.css",
+    "main.js": "/portfolio4/static/js/main.81afc786.chunk.js",
+    "main.js.map": "/portfolio4/static/js/main.81afc786.chunk.js.map",
+    "runtime-main.js": "/portfolio4/static/js/runtime-main.20e5372a.js",
+    "runtime-main.js.map": "/portfolio4/static/js/runtime-main.20e5372a.js.map",
+    "static/js/2.cc64a1c9.chunk.js": "/portfolio4/static/js/2.cc64a1c9.chunk.js",
+    "static/js/2.cc64a1c9.chunk.js.map": "/portfolio4/static/js/2.cc64a1c9.chunk.js.map",
+    "static/js/3.ad136dca.chunk.js": "/portfolio4/static/js/3.ad136dca.chunk.js",
+    "static/js/3.ad136dca.chunk.js.map": "/portfolio4/static/js/3.ad136dca.chunk.js.map",
+    "static/js/4.9807845f.chunk.js": "/portfolio4/static/js/4.9807845f.chunk.js",
+    "static/js/4.9807845f.chunk.js.map": "/portfolio4/static/js/4.9807845f.chunk.js.map",
+    "static/js/5.cc48cf5e.chunk.js": "/portfolio4/static/js/5.cc48cf5e.chunk.js",
+    "static/js/5.cc48cf5e.chunk.js.map": "/portfolio4/static/js/5.cc48cf5e.chunk.js.map",
+    "static/js/6.da1d4bdc.chunk.js": "/portfolio4/static/js/6.da1d4bdc.chunk.js",
+    "static/js/6.da1d4bdc.chunk.js.map": "/portfolio4/static/js/6.da1d4bdc.chunk.js.map",
+    "static/js/7.d87eede4.chunk.js": "/portfolio4/static/js/7.d87eede4.chunk.js",
+    "static/js/7.d87eede4.chunk.js.map": "/portfolio4/static/js/7.d87eede4.chunk.js.map",
+    "static/js/8.11ec0d0a.chunk.js": "/portfolio4/static/js/8.11ec0d0a.chunk.js",
+    "static/js/8.11ec0d0a.chunk.js.map": "/portfolio4/static/js/8.11ec0d0a.chunk.js.map",
+    "index.html": "/portfolio4/index.html",
+    "static/css/main.b456dc91.chunk.css.map": "/portfolio4/static/css/main.b456dc91.chunk.css.map",
+    "static/js/2.cc64a1c9.chunk.js.LICENSE.txt": "/portfolio4/static/js/2.cc64a1c9.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/portfolio4/static/media/CV.8e1fe7d1.pdf",
+    "static/media/backend.jpg": "/portfolio4/static/media/backend.0ee5df1f.jpg",
+    "static/media/datascience.jpg": "/portfolio4/static/media/datascience.7e5c344a.jpg",
+    "static/media/design.jpg": "/portfolio4/static/media/design.ffe64c4f.jpg",
+    "static/media/frontend.jpg": "/portfolio4/static/media/frontend.085777ef.jpg",
+    "static/media/hardware.jpg": "/portfolio4/static/media/hardware.70e723a2.jpg",
+    "static/media/header.jpg": "/portfolio4/static/media/header.6b05894a.jpg",
+    "static/media/table.jpg": "/portfolio4/static/media/table.d308303a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e5372a.js",
+    "static/js/2.cc64a1c9.chunk.js",
+    "static/css/main.b456dc91.chunk.css",
+    "static/js/main.81afc786.chunk.js"
+  ]
+}
