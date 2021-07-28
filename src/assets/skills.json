@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Front-end",
+    "img": "frontend.jpg",
+    "skills": [
+      { "title": "HTML5", "level": 3 },
+      { "title": "CSS", "level": 3 },
+      { "title": "Sass", "level": 2 },
+      { "title": "Bootstrap", "level": 2 },
+      { "title": "Javascript", "level": 3 },
+      { "title": "Typescript", "level": 2 },
+      { "title": "Jest", "level": 1 },
+      { "title": "NPM", "level": 3 },
+      { "title": "React", "level": 3 },
+      { "title": "React Native", "level": 3 },
+      { "title": "Angular", "level": 1 },
+      { "title": "Webpack", "level": 2 },
+      { "title": "Github", "level": 2 }
+    ]
+  },
+  {
+    "title": "Design",
+    "img": "design.jpg",
+    "skills": [
+      { "title": "Responsive", "level": 3 },
+      { "title": "Figma", "level": 3 },
+      { "title": "UX/UI", "level": 3 },
+      { "title": "Usability", "level": 2 },
+      { "title": "Software arquitecture", "level": 1 }
+    ]
+  },
+  {
+    "title": "Back-end",
+    "img": "backend.jpg",
+    "skills": [
+      { "title": "Rest APIs", "level": 3 },
+      { "title": "Nodejs", "level": 3 },
+      { "title": "Express", "level": 3 },
+      { "title": "GraphQL", "level": 1 },
+      { "title": "SQL", "level": 3 },
+      { "title": "PostgreSQL", "level": 2 },
+      { "title": "MongoDB", "level": 3 },
+      { "title": "AWS", "level": 2 },
+      { "title": "Django", "level": 2 }
+    ]
+  },
+  {
+    "title": "Data science",
+    "img": "datascience.jpg",
+    "skills": [
+      { "title": "Python", "level": 3 },
+      { "title": "Numpy", "level": 2 },
+      { "title": "Pandas", "level": 2 },
+      { "title": "Matplot", "level": 2 },
+      { "title": "Sklearn", "level": 2 },
+      { "title": "Excel", "level": 3 },
+      { "title": "Machine Learning", "level": 3 }
+    ]
+  },
+  {
+    "title": "Hardware",
+    "img": "hardware.jpg",
+    "skills": [
+      { "title": "Circuit design", "level": 3 },
+      { "title": "Signal Processing", "level": 3 },
+      { "title": "VHDL SystemVerilog", "level": 3 },
+      { "title": "FPGA", "level": 3 },
+      { "title": "Quartus prime", "level": 3 },
+      { "title": "Arduino", "level": 2 }
+    ]
+  }
+]
