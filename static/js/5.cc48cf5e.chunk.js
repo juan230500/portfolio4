@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio4=this.webpackJsonpportfolio4||[]).push([[5],{34:function(t,i,o){"use strict";o.r(i),i.default=o.p+"static/media/datascience.7e5c344a.jpg"}}]);
-//# sourceMappingURL=5.cc48cf5e.chunk.js.map
