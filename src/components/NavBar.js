@@ -26,7 +26,7 @@ const NavLink = styled.a`
   text-decoration: none;
 
   border: 1px solid transparent;
-  border-radius: 16px;
+  border-radius: 17px;
   background-color: ${({ accent }) => (accent ? "white" : "transparent")};
   color: ${({ accent }) => (accent ? "black" : "white")};
 
