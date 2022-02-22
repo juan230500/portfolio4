@@ -40,8 +40,9 @@ const NavLink = styled.a`
 const NavBar = () => {
   return (
     <Div>
-      <NavLink href="#skills">Skills</NavLink>
       <NavLink href="#projects">Projects</NavLink>
+      <NavLink href="#skills">Skills</NavLink>
+      <NavLink href="#certifications">Certifications</NavLink>
       <NavLink href="#contact" accent>
         Contact
       </NavLink>

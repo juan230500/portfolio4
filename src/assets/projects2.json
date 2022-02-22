@@ -1,0 +1,128 @@
+[
+  {
+    "title": "Plantas medicionales",
+    "tags": ["React", "Javascript"],
+    "description": "A website was developed for a Costa Rican medicinal plant trading company. The website has several pages, its own domain and links to all the company's social networks.",
+    "link": "https://plantasmedicinalescostarica.com/",
+    "image": "l1.png"
+  },
+  {
+    "title": "Burger builder",
+    "tags": ["React", "Javascript"],
+    "description": "A page with dynamic content was built that allows the user to choose ingredients and view the resulting burger. In addition, the page is responsive and uses form with field validation. The generated orders are stored in 'Firebase Realtime Database'",
+    "link": "https://my-burger-4fdd4.web.app/",
+    "image": "l2.png"
+  },
+  {
+    "title": "YaNoMas",
+    "tags": ["React", "React Native", "Javascript"],
+    "description": "Mobile application created for a Hackathon, consists of a system to report and prevent crimes locally. It used NoSQL databases and real-time geolocation.",
+    "link": "https://github.com/ce-force/App-YaNoMas",
+    "image": "l3.png"
+  },
+  {
+    "title": "MercaditoXTEC",
+    "tags": ["React", "React Native", "NodeJS", "Javascript"],
+    "description": "Website and mobile application, aimed at students to facilitate the purchase and sale of products. We worked directly with an external client. The project focused on the use of requirement specification tools such as MockUps, usability tests, software architecture, among others.",
+    "link": "https://github.com/juan230500/MercaditoXTEC-App",
+    "image": "l4.png"
+  },
+  {
+    "title": "Pizza App",
+    "tags": ["PostgreSQL", "Flutter"],
+    "description": "Prototype app to manage pizza hut motorcycles. The application was made as a proof of concept for a posobile logistics solution. In addition, this project served to implement an application developed in Flutter using the Dart programming language, this allows applications for andriod and iOS to be generated using the same code base.",
+    "link": "https://github.com/juan230500/pizza_app",
+    "image": "l5.png"
+  },
+  {
+    "title": "Linear Regression",
+    "tags": ["Machine learning", "Octave"],
+    "description": "Implement linear regression with one variable to predict profits for a food truck. Suppose that the CEO of a restaurant franchise is are considering different cities for opening a new outlet. The chain already has trucks in various cities and he has data for profits and populations from the cities.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex1",
+    "image": "ex1.png"
+  },
+  {
+    "title": "Logistic Regression",
+    "tags": ["Machine learning", "Octave"],
+    "description": "This project consisted in building a logistic regression model to predict whether a student gets admitted into a university. Suppose that the administrator of a university department want to determine each applicant’s chance of admission based on their results on two exams. He has historical data from previous applicants that he can use as a training set for logistic regression. For each training example, he has the applicant’s scores on two exams and the admissions decision. The task is to build a classification model that estimates an applicant’s probability of admission based the scores from those two exams.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex2",
+    "image": "ex2.png"
+  },
+  {
+    "title": "Logistic regression and neural networks",
+    "tags": ["Machine learning", "Octave", "Neural Networks"],
+    "description": "I were used logistic regression and neural networks to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. This exercise will show how the methods learned can be used for this classification task.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex3",
+    "image": "ex3.png"
+  },
+  {
+    "title": "Neural networks backpropagation algorithm",
+    "tags": ["Machine learning", "Octave", "Neural Networks"],
+    "description": "This project implemented feedforward propagation for neural networks and used it to predict handwritten digits with the weights we provided. Also implemented the backpropagation algorithm to learn the parameters for the neural network",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex4",
+    "image": "ex4.png"
+  },
+  {
+    "title": "Regularized linear regression and bias/variance trade",
+    "tags": ["Machine learning", "Octave"],
+    "description": "In the first half of this project, It will be implemented regularized linear regression to predict the amount of water flowing out of a dam using the change of water level in a reservoir. In the next half, It will go through some diagnostics of debugging learning algorithms and examine the effects of bias v.s. variance.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex5",
+    "image": "ex5.png"
+  },
+  {
+    "title": "Support vector machines (SVMs)",
+    "tags": ["Machine learning", "Octave", "SVM"],
+    "description": "In the first half of this project, It will be using support vector machines (SVMs) with various example 2D datasets. Experimenting with these datasets will help to gain an intuition of how SVMs work and how to use a Gaussian kernel with SVMs. In the next half of the exercise, It will be using support vector machines to build a spam classifier.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex6",
+    "image": "ex6.png"
+  },
+  {
+    "title": "K-means algorithm",
+    "tags": ["Machine learning", "Octave", "K-means"],
+    "description": "In this this project, It will be implemented the K-means algorithm and use it for image compression. Dirst start on an example 2D dataset that will help to gain an intuition of how the K-means algorithm works. After that, It will be used the K-means algorithm for image compression by reducing the number of colors that occur in an image to only those that are most common in that image",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex7",
+    "image": "ex7.png"
+  },
+  {
+    "title": "Anomaly detection algorithm",
+    "tags": ["Machine learning", "Octave"],
+    "description": "In this project, it will be implemented an anomaly detection algorithm to detect anomalous behavior in server computers. The features measure the through put (mb/s) and latency (ms) of response of each server. While the servers were operating, it was collected m = 307 examples of how they were behaving, and thus have an unlabeled dataset {x (1), . . . , x(m)}. It is suspected that the vast majority of these examples are “normal” (non-anomalous) examples of the servers operating normally, but there might also be some examples of servers acting anomalously within this dataset. It will use a Gaussian model to detect anomalous examples in your dataset. It will first start on a 2D dataset that will allow it to visualize what the algorithm is doing. On that dataset it will fit a Gaussian dis tribution and then find values that have very low probability and hence can be considered anomalies. After that, it will apply the anomaly detection algorithm to a larger dataset with many dimensions.",
+    "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex8",
+    "image": "ex8.png"
+  },
+  {
+    "title": "Arithmetic Formatter",
+    "tags": ["Python"],
+    "description": "Students in primary school often arrange arithmetic problems vertically to make them easier to solve. This project creates a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-arithmetic-formatter-2#README.md",
+    "image": "p1.png"
+  },
+  {
+    "title": "Time Calculator",
+    "tags": ["Python"],
+    "description": "In this project, it is built a program to inteperpret and output multiple time formats. If the result will be the next day, it should show (next day) after the time. If the result will be more than one day later, it should show (n days later) after the time, where n is the number of days later",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-time-calculator-1#README.md",
+    "image": "p2.png"
+  },
+  {
+    "title": "Budget App",
+    "tags": ["Python"],
+    "description": "this project should be able to instantiate objects based on different budget categories like food, clothing, and entertainment. When objects are created, they are passed in the name of the category. The class should have an instance variable called ledger that is a list",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-budget-app-1#README.md",
+    "image": "p3.png"
+  },
+  {
+    "title": "Polygon Area Calculator",
+    "tags": ["Python"],
+    "description": "In this project it will be used object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-polygon-area-calculator-1#README.md",
+    "image": "p4.png"
+  },
+  {
+    "title": "Probability Calculator",
+    "tags": ["Python"],
+    "description": "Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-probability-calculator#README.md",
+    "image": "p5.png"
+  }
+]
