@@ -3,8 +3,8 @@
     "static/js/0.d0122f67.chunk.js": "/portfolio4/static/js/0.d0122f67.chunk.js",
     "static/js/0.d0122f67.chunk.js.map": "/portfolio4/static/js/0.d0122f67.chunk.js.map",
     "main.css": "/portfolio4/static/css/main.d980dc65.chunk.css",
-    "main.js": "/portfolio4/static/js/main.f55e7022.chunk.js",
-    "main.js.map": "/portfolio4/static/js/main.f55e7022.chunk.js.map",
+    "main.js": "/portfolio4/static/js/main.84e4bc59.chunk.js",
+    "main.js.map": "/portfolio4/static/js/main.84e4bc59.chunk.js.map",
     "runtime-main.js": "/portfolio4/static/js/runtime-main.865e9eda.js",
     "runtime-main.js.map": "/portfolio4/static/js/runtime-main.865e9eda.js.map",
     "static/js/3.399a6c7d.chunk.js": "/portfolio4/static/js/3.399a6c7d.chunk.js",
@@ -24,7 +24,7 @@
     "index.html": "/portfolio4/index.html",
     "static/css/main.d980dc65.chunk.css.map": "/portfolio4/static/css/main.d980dc65.chunk.css.map",
     "static/js/3.399a6c7d.chunk.js.LICENSE.txt": "/portfolio4/static/js/3.399a6c7d.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/portfolio4/static/media/CV.8e1fe7d1.pdf",
+    "static/media/CV.pdf": "/portfolio4/static/media/CV.604f95ad.pdf",
     "static/media/backend.jpg": "/portfolio4/static/media/backend.0ee5df1f.jpg",
     "static/media/coursera.pdf": "/portfolio4/static/media/coursera.9c26e368.pdf",
     "static/media/datascience.jpg": "/portfolio4/static/media/datascience.7e5c344a.jpg",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.865e9eda.js",
     "static/js/3.399a6c7d.chunk.js",
     "static/css/main.d980dc65.chunk.css",
-    "static/js/main.f55e7022.chunk.js"
+    "static/js/main.84e4bc59.chunk.js"
   ]
 }
