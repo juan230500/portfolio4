@@ -1,0 +1,2 @@
+(this.webpackJsonpportfolio4=this.webpackJsonpportfolio4||[]).push([[9],{72:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/hardware.70e723a2.jpg"}}]);
+//# sourceMappingURL=9.ddc0e588.chunk.js.map
