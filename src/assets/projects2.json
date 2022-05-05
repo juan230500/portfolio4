@@ -1,35 +1,42 @@
 [
   {
+    "title": "UNICAN - grupo COMECA",
+    "tags": ["React", "Javascript", "NodeJS", "AWS", "MongoDB"],
+    "description": "A website was developed for a medicinal plant trading company in Costa Rica. Additionally, a database and its respective server were developed to add or remove products. The website has several pages, its own domain and links to all the company's social networks, as well as being hosted on AWS",
+    "link": "https://www.unicancr.com/",
+    "image": "l0.png"
+  },
+  {
     "title": "Plantas medicionales",
-    "tags": ["React", "Javascript"],
+    "tags": ["React", "Javascript", "AWS"],
     "description": "A website was developed for a Costa Rican medicinal plant trading company. The website has several pages, its own domain and links to all the company's social networks.",
     "link": "https://plantasmedicinalescostarica.com/",
     "image": "l1.png"
   },
   {
     "title": "Burger builder",
-    "tags": ["React", "Javascript"],
+    "tags": ["React", "Javascript", "Firebase"],
     "description": "A page with dynamic content was built that allows the user to choose ingredients and view the resulting burger. In addition, the page is responsive and uses form with field validation. The generated orders are stored in 'Firebase Realtime Database'",
     "link": "https://my-burger-4fdd4.web.app/",
     "image": "l2.png"
   },
   {
     "title": "YaNoMas",
-    "tags": ["React", "React Native", "Javascript"],
+    "tags": ["React", "React Native", "NodeJS", "Javascript", "MongoDB"],
     "description": "Mobile application created for a Hackathon, consists of a system to report and prevent crimes locally. It used NoSQL databases and real-time geolocation.",
     "link": "https://github.com/ce-force/App-YaNoMas",
     "image": "l3.png"
   },
   {
     "title": "MercaditoXTEC",
-    "tags": ["React", "React Native", "NodeJS", "Javascript"],
+    "tags": ["React", "React Native", "NodeJS", "Javascript", "AWS", "MongoDB"],
     "description": "Website and mobile application, aimed at students to facilitate the purchase and sale of products. We worked directly with an external client. The project focused on the use of requirement specification tools such as MockUps, usability tests, software architecture, among others.",
     "link": "https://github.com/juan230500/MercaditoXTEC-App",
     "image": "l4.png"
   },
   {
     "title": "Pizza App",
-    "tags": ["PostgreSQL", "Flutter"],
+    "tags": ["PostgreSQL", "Flutter", "AWS", "MongoDB"],
     "description": "Prototype app to manage pizza hut motorcycles. The application was made as a proof of concept for a posobile logistics solution. In addition, this project served to implement an application developed in Flutter using the Dart programming language, this allows applications for andriod and iOS to be generated using the same code base.",
     "link": "https://github.com/juan230500/pizza_app",
     "image": "l5.png"
@@ -51,7 +58,7 @@
   {
     "title": "Logistic regression and neural networks",
     "tags": ["Machine learning", "Octave", "Neural Networks"],
-    "description": "I were used logistic regression and neural networks to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. This exercise will show how the methods learned can be used for this classification task.",
+    "description": "In this program, it were used logistic regression and neural networks to recognize handwritten digits (from 0 to 9). Automated handwritten digit recognition is widely used today - from recognizing zip codes (postal codes) on mail envelopes to recognizing amounts written on bank checks. This exercise will show how the methods learned can be used for this classification task.",
     "link": "https://github.com/juan230500/Machine-Learning-Course/tree/master/Ex3",
     "image": "ex3.png"
   },
@@ -124,5 +131,40 @@
     "description": "Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.",
     "link": "https://replit.com/@Juan-PabloPa439/boilerplate-probability-calculator#README.md",
     "image": "p5.png"
+  },
+  {
+    "title": "Mean-Variance-Standard Deviation Calculator",
+    "tags": ["Python", "Pandas", "Numpy", "Matplotlib"],
+    "description": "A function named calculate() in mean_var_std.py that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. The input of the function should be a list containing 9 digits. The function should convert the list into a 3 x 3 Numpy array, and then return a dictionary containing the mean, variance, standard deviation, max, min, and sum along both axes and for the flattened matrix. ",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-mean-variance-standard-deviation-calculator-1#README.md",
+    "image": "v1.png"
+  },
+  {
+    "title": "Demographic Data Analyzer",
+    "tags": ["Python", "Pandas", "Numpy", "Matplotlib"],
+    "description": "In this project It was analyzed demographic data using Pandas. It was given a dataset of demographic data that was extracted from the 1994 Census database",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-demographic-data-analyzer#README.md",
+    "image": "v2.png"
+  },
+  {
+    "title": "Medical Data Visualizer",
+    "tags": ["Python", "Pandas", "Numpy", "Matplotlib"],
+    "description": "In this project, it will be visualized and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-medical-data-visualizer-1#README.md",
+    "image": "v3.png"
+  },
+  {
+    "title": "Page View Time Series Visualizer",
+    "tags": ["Python", "Pandas", "Numpy", "Matplotlib"],
+    "description": "For this project It will be visualized a time series data using a line chart, bar chart, and box plots. It uses Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help to understand the patterns in visits and identify yearly and monthly growth.",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-page-view-time-series-visualizer#README.md",
+    "image": "v4.png"
+  },
+  {
+    "title": "Sea Level Predictor",
+    "tags": ["Python", "Pandas", "Numpy", "Matplotlib"],
+    "description": "In this project, I anaylized a dataset of the global average sea level change since 1880. I used the data to predict the sea level change through year 2050.",
+    "link": "https://replit.com/@Juan-PabloPa439/boilerplate-sea-level-predictor#README.md",
+    "image": "v5.png"
   }
 ]

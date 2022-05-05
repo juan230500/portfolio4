@@ -3,6 +3,7 @@ import styled from "styled-components";
 import projects from "../../assets/projects2.json";
 import BgImage from "../UI/BgImage";
 import bgImg from "../../assets/table.jpg";
+import { shuffle } from "../../utils";
 
 const Div = styled.div`
   position: relative;
@@ -35,7 +36,12 @@ const ProjectBlock = styled.div`
   }
 
   p {
-    font-size: 10px;
+    font-size: 12px;
+    text-align: justify;
+  }
+
+  a {
+    font-size: 12px;
   }
 `;
 
@@ -88,10 +94,7 @@ const Projects2 = () => {
     (el) => selected.length === 0 || el.tags.some((t) => selected.includes(t))
   );
 
-  console.log(
-    require("../../assets/project_images/" + projects[0].image).default
-  );
-  console.log(bgImg);
+  shuffle(filteredProjects);
 
   return (
     <Div id="projects">
