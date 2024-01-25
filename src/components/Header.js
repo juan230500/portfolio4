@@ -36,7 +36,7 @@ const Div = styled.div`
 
 const Header = (props) => {
   const [i, setI] = useState(0);
-  const text1 = "Juan Pablo Alvarado\nComputer Engineer Student";
+  const text1 = "Juan Pablo Alvarado Cloud Engineer";
 
   useEffect(() => {
     setTimeout(
