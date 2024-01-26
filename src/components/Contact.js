@@ -66,7 +66,7 @@ const Contact = () => {
           <p>juanpo.alvarado@gmail.com</p>
         </Circle>
         <Circle
-          href="https://www.linkedin.com/in/juan-pablo-alvarado-924849146/"
+          href="https://www.linkedin.com/in/juan-pablo-a-924849146/"
           target="_blank"
         >
           <FaLinkedin />

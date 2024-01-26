@@ -8,6 +8,11 @@ import dlCourseraImg from "../assets/certifications/coursera.pdf";
 
 const DATA = [
   {
+    title:
+      "Bachelor in Computer Engineering - Instituto Tecnologico de Costa Rica",
+    link: "https://www.tec.ac.cr/planes-estudio/licenciatura-ingenieria-computadores",
+  },
+  {
     title: "Scientific Computing with Python",
     link: "https://www.freecodecamp.org/certification/fcce7e82828-272b-4fbd-ac05-adc68cb2723a/scientific-computing-with-python-v7",
   },
